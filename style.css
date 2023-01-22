@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+}
+
+.button-change-color {
+    margin: 25px;
+}
+
+#box {
+    background: red;
+    height: 50vh;
+}
